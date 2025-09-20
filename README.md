@@ -22,10 +22,12 @@ This workbook is based off work from my University dissertation project "Using m
 
 ## Notebooks
 
-| Notebook | Open in Colab |
-|----------|---------------|
-| Template for user data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HarryPurcell1/ML_NO2/blob/main/notebooks/template_cleaned_code.ipynb) |
-| Newcastle Centre CAZ Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HarryPurcell1/ML_NO2/blob/main/notebooks/Newcastle_Centre_Example.ipynb) |
-| Newcastle Cradlewell CAZ Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HarryPurcell1/ML_NO2/blob/main/notebooks/Newcastle_Cradlewell_Example.ipynb) |
-| Sheffield Devonshire Green CAZ Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HarryPurcell1/ML_NO2/blob/main/notebooks/Sheffield_Devonshire_Green_Example.ipynb) |
-| Sheffield Tinsley CAZ Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HarryPurcell1/ML_NO2/blob/main/notebooks/Sheffield_Tinsley_Example.ipynb) |
+| Notebook | Open in Colab | Open on GitHub |
+|----------|---------------|----------------|
+| Template Cleaned Code | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O-G9VhI721A6IO9gJIsorUljvI3u6r_5) | [View Notebook](https://github.com/HarryPurcell1/Using_Machine_learning_to_assess_the_impact_of_clean_air_interventions_on_Nitrogen_Dioxide/blob/main/Using_Machine_learning_to_assess_the_impact_of_clean_air_interventions_on_Nitrogen_Dioxide.ipynb) |
+| Newcastle Centre Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17FDUlaGye5HtMUU1qrxPVPkYZ0dyOSue) | [View Notebook](https://github.com/HarryPurcell1/Using_Machine_learning_to_assess_the_impact_of_clean_air_interventions_on_Nitrogen_Dioxide/blob/main/Newcastle_Centre_Example.ipynb) |
+| Newcastle Cradlewell Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j-Iw61lS0-cL7cMWx2CnSiweaFHkgBqb) | [View Notebook](https://github.com/HarryPurcell1/Using_Machine_learning_to_assess_the_impact_of_clean_air_interventions_on_Nitrogen_Dioxide/blob/main/Newcastle_Cradlewell_Example.ipynb) |
+| Sheffield Devonshire Green Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JRYNYeQ289_7EOcqlwkU9w3jG_QfPDgx) | [View Notebook](https://github.com/HarryPurcell1/Using_Machine_learning_to_assess_the_impact_of_clean_air_interventions_on_Nitrogen_Dioxide/blob/main/Sheffield_Devonshire_Green_Example.ipynb) |
+| Sheffield Tinsley Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1753GtVdwnzIRrFkTxiNNM9zQeuYXaX38) | [View Notebook](https://github.com/HarryPurcell1/Using_Machine_learning_to_assess_the_impact_of_clean_air_interventions_on_Nitrogen_Dioxide/blob/main/Sheffield_Tinsley_Example.ipynb) |
+
+
