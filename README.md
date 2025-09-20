@@ -35,3 +35,19 @@ This workbook is based off work from my University dissertation project "Using m
 Here is an example output from the analysis:
 
 <img width="1229" height="655" alt="shfT" src="https://github.com/user-attachments/assets/4c0f43e2-1253-4fce-a36f-f55971e416aa" />
+
+## The Data Used
+
+The data used for this project is from the DEFRA data selector (https://uk-air.defra.gov.uk/data/data_selector). 
+To download data for your chosen area follow the steps below:
+
+  1. Go to the DEFRA data selector (https://uk-air.defra.gov.uk/data/data_selector)
+  2. Select: Serach Hourly Networks
+  3. Select Data Type- 'Measured Data'
+  4. Select date Range- 'Custom Date (below)'
+       - indvuial choice (it is best to try get as much data as possible to train the model- select dates where metelogical data is availe- aim for ast least 6 years of training data (data before the intervention) inline with literature.
+       - Data is only available in 5 year increments
+  5. Select Monitoring Sites- 'Local Authority'- select the area of interest- then individual site
+  6. Select Pollutants- 'Pollutant Name'- 'Select All'
+  7. Select Output Type- 'Data to Email Address (CSV)' - enter email and Agree Terms
+  8. 'Get Data'
