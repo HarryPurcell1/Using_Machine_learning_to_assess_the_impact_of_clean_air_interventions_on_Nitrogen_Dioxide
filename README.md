@@ -30,4 +30,8 @@ This workbook is based off work from my University dissertation project "Using m
 | Sheffield Devonshire Green Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JRYNYeQ289_7EOcqlwkU9w3jG_QfPDgx) | [View Notebook](https://github.com/HarryPurcell1/Using_Machine_learning_to_assess_the_impact_of_clean_air_interventions_on_Nitrogen_Dioxide/blob/main/Sheffield_Devonshire_Green_Example.ipynb) |
 | Sheffield Tinsley Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1753GtVdwnzIRrFkTxiNNM9zQeuYXaX38) | [View Notebook](https://github.com/HarryPurcell1/Using_Machine_learning_to_assess_the_impact_of_clean_air_interventions_on_Nitrogen_Dioxide/blob/main/Sheffield_Tinsley_Example.ipynb) |
 
+## Example Output
 
+Here is an example output from the analysis:
+
+<img width="1229" height="655" alt="shfT" src="https://github.com/user-attachments/assets/4c0f43e2-1253-4fce-a36f-f55971e416aa" />
